@@ -116,5 +116,5 @@ CREATE TABLE zepto (
 
 
 ## 👨‍💻 About the Author
-Hey, I’m Vennela Lakavath — a Data Analyst.
+Hey, I’m Chandan Raj Lakavath — a Data Analyst.
 
